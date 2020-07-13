@@ -31,5 +31,5 @@
 </p>
 </h1>
 
-<h3 align="center"><strong> Now 👇🏽 enjoy my repos made with ❤ by me! </strong> </h3>
+<h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
 
