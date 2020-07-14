@@ -1,7 +1,7 @@
 <h1 align="center"> 🤩 hello, i'm Erika Lopes 🤩 </h1>
 <h3 align="center">🚀 fullstack devlover 🚀</h3>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+<img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
 
 ### 💻 my favorite stack:
 - React Native ❤
@@ -15,7 +15,7 @@
 - I study information systems in Faculdade de Juazeiro do Norte.
 - I'm a little too addicted to coffee.
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+<img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
 
 <h1 align="center">
 ✨ where you can find me ✨
