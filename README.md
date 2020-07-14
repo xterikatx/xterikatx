@@ -1,4 +1,4 @@
-<h1 align="center" style="color: pink;"> 🤩 hello, i'm Erika Lopes 🤩 </h1>
+<h1 align="center"> 🤩 hello, i'm Erika Lopes 🤩 </h1>
 <h3 align="center">🚀 fullstack devlover 🚀</h3>
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
