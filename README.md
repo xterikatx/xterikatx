@@ -14,7 +14,7 @@
 - I'm 20 years old., and I live in Ceará, BR.
 - I study information systems in Faculdade de Juazeiro do Norte.
 - I'm a little too addicted to coffee.
-- Fan of the universe A Song of Ice and Fire
+- Fan of the universe A Song of Ice and Fire.
 
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
