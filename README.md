@@ -1,5 +1,5 @@
-<h1 align="center"> 🤩 hello, i'm erika 🤩 </h1>
-<h3 align="center">🚀 fullstack devlover 🚀</h3>
+<h1 align="center">  hello, i'm erika 🤩 </h1>
+<h3 align="center"> fullstack devlover 🚀</h3>
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
 
@@ -20,7 +20,7 @@
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
 
 <h1 align="center">
-✨ where you can find me ✨
+✨ where you can find me 
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/erika-lopes/">
