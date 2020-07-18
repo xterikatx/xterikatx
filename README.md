@@ -3,7 +3,7 @@
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
 
-### 💻 my favorite stack:
+### 💻 most used tech
 - React Native ❤
 - ReactJS & Styled-Components
 - NodeJS & Express
