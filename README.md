@@ -30,8 +30,8 @@
     <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue">
   </a>
   
-  <a href="https://www.instagram.com/erika.cafezin/">
-    <img src="https://img.shields.io/badge/instagram-erika.cafezin-red">
+  <a href="https://www.instagram.com/erika._lopes/">
+    <img src="https://img.shields.io/badge/instagram-erika.__lopes-orange">
   </a>
 </p>
 </h1>
