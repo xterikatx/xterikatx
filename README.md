@@ -12,10 +12,12 @@
 - HTML & CSS
 
 ### 👧 a little about myself:
-- I'm 20 years old., and I live in Ceará, BR.
-- I study information systems in Faculdade de Juazeiro do Norte.
+- i'm 20 years old., and I live in Ceará, BR.
+- i study information systems in Faculdade de Juazeiro do Norte.
 - a little addicted to coffee.
-- Fan of the universe A Song of Ice and Fire.
+- fan of the universe A Song of Ice and Fire.
+- heavy metal and death metal listener 
+
 
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
