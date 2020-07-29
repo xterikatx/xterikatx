@@ -1,5 +1,5 @@
 <h1 align="center">  hello, i'm erika 🤩 </h1>
-<h3 align="center"> fullstack devlover 🚀</h3>
+<h3 align="center"> front-end devlover 🚀</h3>
 
 <img src="https://i.ibb.co/ZN01H0J/kisspng-line-angle-pink-m-5ae1ef37acb473-2126061715247562797074.png"> 
 
