@@ -13,7 +13,7 @@
 
 ### 👧 a little about myself:
 - i'm 20 years old., and I live in Ceará, BR.
-- i study information systems in Faculdade de Juazeiro do Norte.
+- i study information systems at Faculdade de Juazeiro do Norte.
 - a little addicted to coffee.
 - fan of the universe A Song of Ice and Fire.
 - heavy metal and death metal listener 
