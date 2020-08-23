@@ -7,8 +7,8 @@
 - React Native ❤
 - ReactJS & Styled-Components
 - NodeJS & Express
-- Javascript 
-- A little PHP & Typescript
+- Javascript & Typescript
+- A little PHP 
 - HTML & CSS
 
 ### 👧 a little about myself:
