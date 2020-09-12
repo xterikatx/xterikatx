@@ -42,7 +42,7 @@
 
 
 
-![Erika's github stats](https://github-readme-stats.vercel.app/api?username=erikalopes&show_icons=true&theme=bear)
+![Erika's github stats](https://github-readme-stats.vercel.app/api?username=erikalopes&show_icons=true&theme=bear&count_private=true)
 
 <hr>
 <h3 align="center"><strong> sinta-se à vontade para olhar meu laboratório de experimentos ❤ </strong> </h3>
