@@ -17,7 +17,7 @@
 
 - 👨🏽‍💻 Atualmente, estudo Sistemas de Informaçao na [Unijuazeiro](https://https://unijuazeiro.edu.br).
 - 🌱 Nasci no RJ, mas hoje, moro no meu país Ceará.
-- ☕ Não gosto muito de café. (só uns 2l por dia)
+- ☕ Não gosto muito de café. (só uns 2L por dia)
 - 💬 Pergunte-me qualquer coisa e ficarei feliz em ajudar!
 - 👑 Fã das Crônicas de Gelo e Fogo.
 - 📫 Como me encontrar: caluerika@gmail.com.
