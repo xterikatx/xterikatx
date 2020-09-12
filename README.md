@@ -7,6 +7,10 @@
 <a href="https://www.instagram.com/erika.lxpes/">
   <img align="center" alt="Erika's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://wa.me/55997266297">
+  <img align="center" alt="Erika's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/whatsapp.svg" />
+</a>
+
 
 <br />
 <br />
@@ -15,12 +19,12 @@
   
 **Falando um pouco + sobre mim:**
 
-- 👨🏽‍💻 Atualmente, estudo Sistemas de Informaçao na [Unijuazeiro](https://https://unijuazeiro.edu.br).
-- 🌱 Nasci no RJ, mas hoje, moro no meu país Ceará.
-- ☕ Não gosto muito de café. (só uns 2L por dia)
-- 💬 Pergunte-me qualquer coisa e ficarei feliz em ajudar!
-- 👑 Fã das Crônicas de Gelo e Fogo.
-- 📫 Como me encontrar: caluerika@gmail.com.
+- 👨🏽‍💻 atualmente, estudo Sistemas de Informaçao na [Unijuazeiro](https://https://unijuazeiro.edu.br).
+- 🌱 nasci no RJ, mas hoje, moro no meu país Ceará.
+- ☕ não gosto muito de café. (só uns 2l por dia)
+- 💬 pergunte-me qualquer coisa e ficarei feliz em ajudar!
+- 👑 fã das Crônicas de Gelo e Fogo.
+- 📫 meu e-mail: caluerika@gmail.com.
 
 
 **Linguagens e ferramentas que mais uso e estudo**  
