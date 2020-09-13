@@ -1,5 +1,6 @@
 <h1 align="center"> Hey 👋🏽, sou Erika! </h1>
 
+<div  style="text-align: center; width: 100%;">
 <a href="https://www.linkedin.com/in/erika-lopes/" style="text-align: center; display:inline-block;">
   <img alt="'Erika's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -10,6 +11,7 @@
 <a href="https://wa.me/55997266297" style="text-align: center; display:inline-block;">
   <img alt="Erika's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/whatsapp.svg" />
 </a>
+</div>
 
 
 <br />
