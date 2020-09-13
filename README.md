@@ -41,7 +41,7 @@
 
 
 ![erika's github stats](https://github-readme-stats.vercel.app/api?username=erikalopes&show_icons=true&theme=bear&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalopes&layout=compact&theme=bear)](https://github.com/erikalopes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalopes&layout=compact&theme=bear&count_private=true)](https://github.com/erikalopes/github-readme-stats)
 
 <hr>
 <h3 align="center"><strong> ❤ </strong> </h3>
