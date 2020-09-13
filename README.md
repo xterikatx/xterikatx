@@ -1,6 +1,4 @@
 <h1 align="center"> Hey 👋🏽, sou Erika! </h1>
-<hr>
-
 <a href="https://www.linkedin.com/in/erika-lopes/" >
   <img alt="'Erika's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,8 +11,7 @@
 </a>
 
 <br />
-<hr>
-
+<br />
 <img align="right" alt="GIF" src="https://media.tenor.com/images/c73a99c691bdc841e78a408608fb47e8/tenor.gif" />
   
 **Falando um pouco + sobre mim:**
