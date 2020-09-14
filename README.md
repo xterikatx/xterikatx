@@ -16,7 +16,7 @@
   
 **Falando um pouco + sobre mim:**
 
-- 👨🏽‍💻 atualmente, estudo Sistemas de Informaçao na [Unijuazeiro](https://https://unijuazeiro.edu.br).
+- 👩‍💻 atualmente, estudo Sistemas de Informaçao na [Unijuazeiro](https://https://unijuazeiro.edu.br).
 - 🌱 nasci no RJ, mas hoje, moro no meu país Ceará.
 - ☕ não gosto muito de café. (só uns 2l por dia)
 - 💬 pergunte-me qualquer coisa e ficarei feliz em ajudar!
