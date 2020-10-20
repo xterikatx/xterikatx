@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋🏽, sou Erika! </h1>
+<h1 align="center">Erika Lopes, mas pode me chamar de Café mesmo</h1>
 <a href="https://www.linkedin.com/in/erika-lopes/" >
   <img alt="'Erika's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
