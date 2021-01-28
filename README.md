@@ -39,7 +39,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalopes&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Erikalopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erikalopes)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <h3 align="center"><strong> ❤ </strong> </h3>
