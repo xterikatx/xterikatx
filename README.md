@@ -1,6 +1,4 @@
 <h1 align="center">Erika Lopes💻</h1>
-
-<br />
 <br />
 <img align="right" alt="GIF" src="https://media.tenor.com/images/c73a99c691bdc841e78a408608fb47e8/tenor.gif" />
   
