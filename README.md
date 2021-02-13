@@ -5,6 +5,7 @@
 **Falando um pouco + sobre mim:**
 
 - 👩‍💻 estudo Sistemas de Informaçao na [Unijuazeiro](https://unijuazeiro.edu.br).
+- 👩‍💻 sou desenvolvera frontend na [Agenda Edu](https://agendaedu.com/).
 - 🌱 nasci no RJ, mas hoje, moro no meu país Ceará.
 - ☕ não gosto muito de café. (só uns 2l por dia)
 - 💬 pergunte-me qualquer coisa e ficarei feliz em ajudar!
