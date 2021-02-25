@@ -3,7 +3,7 @@
 #### I'm a Jr FrontEnd Mobile Developer.
 
 - 🏢 I'm currently working at **Agenda Edu**
-- ⚙️ I use daily: `.js`, `.tsx`, `.ts`, `.styled-components`, `.jest`, `.react native`, `react`
+- ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - 🌱 Learning  about **tests**, **context api**, **redux**, **mobx**, **typescript**
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Shingeki No Kyojin, Twilight Saga and A Song of Ice and Fire 
