@@ -4,6 +4,7 @@
 
 - 🏢 I'm currently working at **Agenda Edu**
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
+- 📚 Learning about Next.js
 - ⚡️ Fun fact: I'm a huge fan of Shingeki No Kyojin, Twilight Saga and A Song of Ice and Fire 
 - ☕ Can you offer me a cup of coffee that I will always accept
 - 🤪 I LOVE EMOJIS
