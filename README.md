@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Jr FrontEnd Mobile Developer.
+#### I'm a Jr FrontEnd Developer.
 
 - 🏢 I'm currently working at **Agenda Edu**
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
