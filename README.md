@@ -28,7 +28,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
 
 <hr>
-
+![snake status](https://github.com/xterikatx/xterikatx/blob/output/github-contribution-grid-snake.svg)
 
 
 [![Erika Lopes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erikalopes&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
