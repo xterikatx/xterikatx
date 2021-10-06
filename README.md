@@ -8,6 +8,7 @@
 - ☕ Can you offer me a cup of coffee that I will always accept
 - 🤪 I LOVE EMOJIS
 <hr>
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=xterikatx&repo=xterikatx&countColorcountColor)
 
 <hr>
