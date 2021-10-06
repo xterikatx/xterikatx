@@ -7,7 +7,7 @@
 - ⚡️ Fun fact: I'm a huge fan of Shingeki No Kyojin, Twilight Saga and A Song of Ice and Fire 
 - ☕ Can you offer me a cup of coffee that I will always accept
 - 🤪 I LOVE EMOJIS
-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=xterikatx&repo=xterikatx&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=xterikatx&repo=xterikatx&countColorcountColor)
 
 <hr>
 
