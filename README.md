@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a FrontEnd Developer.
+#### I'm a Front-end Developer.
 
 - 🏢 I'm currently working at **Agenda Edu**
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
