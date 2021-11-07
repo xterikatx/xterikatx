@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working at **Agenda Edu**
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
-- ⚡️ Fun fact: I'm a huge fan of Shingeki No Kyojin, Twilight Saga and A Song of Ice and Fire 
+- ⚡️ Fun fact: I'm a huge fan of Twilight Saga and I like to listen Melodic Death Metal
 - ☕ Can you offer me a cup of coffee that I will always accept
 - 🤪 I LOVE EMOJIS
 <hr>
