@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 Fullstack Developer at Cubos Tecnologia
+- 👩‍💻 Front-end Developer at Cubos Tecnologia
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ Fun fact: I'm a huge fan of Twilight Saga (🤡) and I am addicted to listen Melodic Death Metal 🎸 
 - ☕ Can you offer me a cup of coffee that I will always accept
