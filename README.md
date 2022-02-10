@@ -2,8 +2,8 @@
 
 - 👩‍💻 Front-end Developer at Cubos Tecnologia
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
-- ⚡️ Fun fact: I'm a huge fan of Attack on Titan and I am addicted to listen Melodic Death Metal 🎸 
-- ☕ Can you offer me a cup of coffee that I will always accept
+- ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Melodic Death Metal 🎸 
+- ☕ You can offer me a cup of coffee and I will always accept
 - 🤪 I LOVE EMOJIS
 <hr>
 
