@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 Front-end Developer at Cubos Tecnologia
+- 👩‍💻 Mobile Engineer at Conta Simples
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Melodic Death Metal 🎸 
 - ☕ You can offer me a cup of coffee and I will always accept
