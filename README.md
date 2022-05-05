@@ -1,6 +1,6 @@
 ### Hey, blz? 👋
 
-- 👩‍💻 Engenheira de Software Mobile na ![Conta Simples](https://contasimples.com/)
+- 👩‍💻 Engenheira de Software Mobile na [Conta Simples](https://contasimples.com/)
 - ⚙️ Eu uso diariamente: `.js`, `.tsx`, `.ts`
 - ⚡️ Fun fact: Sou MUITO MUITO fã de Shingeki no Kyojin, Tatake!!! E estou viciada em ouvir Death Metal ~ melódico também ~ 🎸 
 - ☕ Eu jamais recuso café! 
