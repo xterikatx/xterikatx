@@ -2,7 +2,7 @@
 
 - 👩‍💻 Engenheira de Software Mobile na [Conta Simples](https://contasimples.com/)
 - ⚙️ Eu uso diariamente: `.js`, `.tsx`, `.ts`
-- ⚡️ Sou MUITO MUITO fã de Shingeki no Kyojin, Tatake!!! E estou viciada em ouvir Death Metal ~ melódico também ~ 🎸 
+- ⚡️ Sou MUITO MUITO fã de Shingeki no Kyojin, Tatakae!!! E estou viciada em ouvir Death Metal ~ melódico também ~ 🎸 
 - ☕ Eu jamais recuso café! 
 - 🤪 Eu amo usar emojis totalmente aleatórios e fora de contexto.
 <hr>
