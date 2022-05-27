@@ -1,10 +1,10 @@
 ### Hey, blz? 👋
 
-- 👩‍💻 Engenheira de Software na [Conta Simples](https://contasimples.com/)
-- ⚙️ Eu uso diariamente: `.js`, `.tsx`, `.ts`
-- ⚡️ Sou MUITO MUITO fã de Shingeki no Kyojin, Tatakae!!! E estou viciada em ouvir Death Metal ~ melódico também ~ 🎸 
-- ☕ Eu jamais recuso café! 
-- 🤪 Eu amo usar emojis totalmente aleatórios e fora de contexto.
+- 👩‍💻 Front-end Mobile Engineer at Conta Simples
+- ⚙️ I use daily: `.js`, `.tsx`, `.ts`
+- ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Melodic Death Metal 🎸 
+- ☕ You can offer me a cup of coffee and I will always accept
+- 🤪 I LOVE EMOJIS
 <hr>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=xterikatx&repo=xterikatx&countColorcountColor)
