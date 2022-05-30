@@ -1,4 +1,4 @@
-### Hey, blz? 👋
+### Hey, whats up? 👋
 
 - 👩‍💻 Front-end Mobile Engineer at Conta Simples
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
