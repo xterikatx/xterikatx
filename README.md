@@ -2,7 +2,7 @@
 
 - 👩‍💻 Front-end Mobile Engineer at Conta Simples
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
-- ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Melodic Death Metal 🎸 
+- ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Death Metal ~ (melodic too)🎸 
 - ☕ You can offer me a cup of coffee and I will always accept
 - 🤪 I LOVE EMOJIS
 <hr>
