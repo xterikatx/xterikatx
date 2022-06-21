@@ -1,6 +1,7 @@
 ### Hey, whats up? 👋
 
 - 👩‍💻 Mobile Engineer at Conta Simples
+- 📚 Learning about mobile development with Kotlin
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Death Metal ~ (and melodic too)🎸 
 - ☕ You can offer me a cup of coffee and I will always accept
