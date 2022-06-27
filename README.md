@@ -1,6 +1,6 @@
 ### Hey, whats up? 👋
 
-- 👩‍💻 Mobile Engineer at [T10](https://t10.digital)
+- 👩‍💻 Android Engineer Consultant at [T10](https://t10.digital)
 - 📚 Learning about mobile development with Kotlin
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ Fun fact: I am a big fan of Attack on Titan and I am listening a lot to Death Metal ~ (and melodic too)🎸 
