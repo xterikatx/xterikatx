@@ -5,9 +5,6 @@
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ I am a big fan of Attack on Titan and I am listening a lot to Death Metal ~ (and melodic too)🎸 
 
-<hr>
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=xterikatx&repo=xterikatx&countColorcountColor)
 
 <hr>
 
