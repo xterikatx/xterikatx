@@ -3,7 +3,7 @@
 - 👩‍💻 Mobile Engineer
 - 📚 Learning about mobile development with Kotlin
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
-- ⚡️ I am a big fan of Attack on Titan and I am listening a lot to Death Metal ~ (and melodic too)🎸 
+- ⚡️ I am a big fan of Attack on Titan and I am listening a lot to Death Metal 🎸 
 
 
 <hr>
