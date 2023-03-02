@@ -4,6 +4,7 @@
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ I am a big fan of Attack on Titan and I am listening a lot to Death Metal 🎸 
 - 🤓 Leaning about anything
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xterikatx&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <hr>
 
