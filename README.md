@@ -3,7 +3,7 @@
 - 👩‍💻 Front-end Mobile Engineer
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
 - ⚡️ I am a big fan of Attack on Titan and I am listening a lot to Death Metal 🎸 
-
+- 🤓 Leaning about anything
 
 <hr>
 
