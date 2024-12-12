@@ -2,7 +2,7 @@
 
 - 👩‍💻 Front-end Mobile Developer
 - ⚙️ I use daily: `.js`, `.tsx`, `.ts`
-- 🤓 Leaning about anything
+- 🤓 Learning about anything
 - ![](https://komarev.com/ghpvc/?username=xterikatx)
 
 <hr>
