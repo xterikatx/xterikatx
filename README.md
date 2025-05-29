@@ -24,5 +24,6 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
 
 <hr>
-
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xterikatx&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
